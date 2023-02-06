@@ -1,0 +1,15 @@
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\bin\Debug\net6.0\TutoringManagementApp.exe
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\bin\Debug\net6.0\TutoringManagementApp.deps.json
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\bin\Debug\net6.0\TutoringManagementApp.runtimeconfig.json
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\bin\Debug\net6.0\TutoringManagementApp.dll
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\bin\Debug\net6.0\TutoringManagementApp.pdb
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.csproj.AssemblyReference.cache
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.AssemblyInfoInputs.cache
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.AssemblyInfo.cs
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.dll
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\refint\TutoringManagementApp.dll
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.pdb
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\TutoringManagementApp.genruntimeconfig.cache
+C:\Users\VALTECH-COMPUTERS\OneDrive\Desktop\TutoringManagementApp\obj\Debug\net6.0\ref\TutoringManagementApp.dll
