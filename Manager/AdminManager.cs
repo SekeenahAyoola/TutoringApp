@@ -16,11 +16,17 @@ namespace TutoringManagementApp.Manager
 
         public void ChangePin(string email)
         {
-            Console.WriteLine("Input previous pin");
-            int oldPin = int.Parse(Console.ReadLine());
+            int i = 1;
+            int oldPin = default;
             //int newPin = oldPin;
             foreach (var admin in AdminDatabase)
             {
+                if (i == 1)
+                {
+                    Console.WriteLine("Input previous pin");
+                    oldPin = int.Parse(Console.ReadLine());
+                }
+                i ++;
                 if (admin.Email == email && oldPin == admin.Pin)
                 {
                     Console.WriteLine("Enter your new pin: ");

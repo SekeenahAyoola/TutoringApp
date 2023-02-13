@@ -184,6 +184,9 @@ namespace TutoringManagementApp
                 Console.WriteLine();
                 break;
                 case 2:
+                Console.WriteLine("Please check the id of the tutor you want to pick");
+                Console.WriteLine();
+                tutee.ViewTutors(TutorManager.tutorDatabase);
                 Console.WriteLine("Input tutor Id Number");
                 tutorId = Convert.ToInt32(Console.ReadLine());
                 bool check = tutee.Check(tutorId); 
@@ -200,6 +203,10 @@ namespace TutoringManagementApp
                 Console.WriteLine();
                 break;
                 case 3:
+                Console.WriteLine("Please check the id of the tutor you want to rate");
+                Console.WriteLine();
+                tutee.ViewTutors(TutorManager.tutorDatabase);
+                Console.WriteLine();
                 Console.WriteLine("Input tutor Id Number");
                 tutorId = Convert.ToInt32(Console.ReadLine());
                 bool check1 = tutee.Check(tutorId); 
@@ -225,6 +232,10 @@ namespace TutoringManagementApp
                 Console.WriteLine();
                 break;
                 case 4:
+                Console.WriteLine("Please check the id of the tutor you want to comment on");
+                Console.WriteLine();
+                tutee.ViewTutors(TutorManager.tutorDatabase);
+                Console.WriteLine();
                 Console.WriteLine("Input tutor Id Number");
                 tutorId = Convert.ToInt32(Console.ReadLine());
                 bool check2 = tutee.Check(tutorId);
